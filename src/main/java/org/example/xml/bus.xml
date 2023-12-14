@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<busData>
+    <bus>
+        <routeNumber>123</routeNumber>
+        <departureDate>2021-09-01</departureDate>
+        <departureTime>09:00</departureTime>
+        <destination>New York</destination>
+        <departureStation>Main Station</departureStation>
+        <departurePlatform>5</departurePlatform>
+        <arrivalStation>Central Station</arrivalStation>
+        <ticketCost>10.50</ticketCost>
+        <busBrand>ABC Bus Company</busBrand>
+        <travelTime>3 hours</travelTime>
+    </bus>
+    <bus>
+        <routeNumber>456</routeNumber>
+        <departureDate>2021-09-02</departureDate>
+        <departureTime>10:30</departureTime>
+        <destination>Los Angeles</destination>
+        <departureStation>Downtown Station</departureStation>
+        <departurePlatform>2</departurePlatform>
+        <arrivalStation>Main Airport</arrivalStation>
+        <ticketCost>20.75</ticketCost>
+        <busBrand>XYZ Bus Services</busBrand>
+        <travelTime>6 hours</travelTime>
+    </bus>
+    <busData>
+        <bus>
+            <routeNumber>123</routeNumber>
+            <departureDate>2021-09-01</departureDate>
+            <departureTime>09:00</departureTime>
+            <destination>New York</destination>
+            <departureStation>Main Station</departureStation>
+            <departurePlatform>5</departurePlatform>
+            <arrivalStation>Central Station</arrivalStation>
+            <ticketCost>10.50</ticketCost>
+            <busBrand>ABC Bus Company</busBrand>
+            <travelTime>3 hours</travelTime>
+        </bus>
+        <bus>
+            <routeNumber>456</routeNumber>
+            <departureDate>2021-09-02</departureDate>
+            <departureTime>10:30</departureTime>
+            <destination>Los Angeles</destination>
+            <departureStation>Downtown Station</departureStation>
+            <departurePlatform>2</departurePlatform>
+            <arrivalStation>Main Airport</arrivalStation>
+            <ticketCost>20.75</ticketCost>
+            <busBrand>XYZ Bus Services</busBrand>
+            <travelTime>6 hours</travelTime>
+        </bus>
+        <bus>
+            <routeNumber>789</routeNumber>
+            <departureDate>2021-09-03</departureDate>
+            <departureTime>12:00</departureTime>
+            <destination>Chicago</destination>
+            <departureStation>City Center</departureStation>
+            <departurePlatform>8</departurePlatform>
+            <arrivalStation>Downtown Terminal</arrivalStation>
+            <ticketCost>15.25</ticketCost>
+            <busBrand>123 Bus Lines</busBrand>
+            <travelTime>4 hours</travelTime>
+        </bus>
+        <bus>
+            <routeNumber>1011</routeNumber>
+            <departureDate>2021-09-04</departureDate>
+            <departureTime>14:30</departureTime>
+            <destination>Miami</destination>
+            <departureStation>Beach Station</departureStation>
+            <departurePlatform>3</departurePlatform>
+            <arrivalStation>Downtown Terminal</arrivalStation>
+            <ticketCost>12.80</ticketCost>
+            <busBrand>City Express Bus</busBrand>
+            <travelTime>5 hours</travelTime>
+        </bus>
+        <bus>
+            <routeNumber>1213</routeNumber>
+            <departureDate>2021-09-05</departureDate>
+            <departureTime>16:15</departureTime>
+            <destination>Seattle</destination>
+            <departureStation>Main Terminal</departureStation>
+            <departurePlatform>4</departurePlatform>
+            <arrivalStation>Downtown Bus Stop</arrivalStation>
+            <ticketCost>18.50</ticketCost>
+            <busBrand>Bus Services</busBrand>
+            <travelTime>7 hours</travelTime>
+        </bus>
+    </busData>
+</busData>

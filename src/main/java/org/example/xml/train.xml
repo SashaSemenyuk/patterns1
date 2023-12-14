@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<trainData>
+    <train>
+        <trainNumber>123</trainNumber>
+        <departureDate>2021-09-01</departureDate>
+        <departureTime>09:00</departureTime>
+        <destination>New York</destination>
+        <departureStation>Main Station</departureStation>
+        <departurePlatform>Platform A</departurePlatform>
+        <arrivalStation>Central Station</arrivalStation>
+        <ticketCost>50.00</ticketCost>
+        <trainOperator>ABC Railways</trainOperator>
+        <travelTime>2 hours</travelTime>
+        <arrivalDate>2021-09-05</arrivalDate>
+        <arrivalTime>22:15</arrivalTime>
+    </train>
+    <train>
+        <trainNumber>456</trainNumber>
+        <departureDate>2021-09-02</departureDate>
+        <departureTime>10:30</departureTime>
+        <destination>Chicago</destination>
+        <departureStation>Downtown Station</departureStation>
+        <departurePlatform>Platform B</departurePlatform>
+        <arrivalStation>City Center Station</arrivalStation>
+        <ticketCost>75.00</ticketCost>
+        <trainOperator>XYZ Rail</trainOperator>
+        <travelTime>3 hours</travelTime>
+        <arrivalDate>2021-09-05</arrivalDate>
+        <arrivalTime>22:15</arrivalTime>
+    </train>
+    <train>
+        <trainNumber>789</trainNumber>
+        <departureDate>2021-09-03</departureDate>
+        <departureTime>12:00</departureTime>
+        <destination>Los Angeles</destination>
+        <departureStation>Main Terminal</departureStation>
+        <departurePlatform>Platform C</departurePlatform>
+        <arrivalStation>Downtown Station</arrivalStation>
+        <ticketCost>100.00</ticketCost>
+        <trainOperator>123 Trainlines</trainOperator>
+        <travelTime>5 hours</travelTime>
+        <arrivalDate>2021-09-05</arrivalDate>
+        <arrivalTime>22:15</arrivalTime>
+    </train>
+    <train>
+        <trainNumber>1011</trainNumber>
+        <departureDate>2021-09-04</departureDate>
+        <departureTime>14:30</departureTime>
+        <destination>Miami</destination>
+        <departureStation>Central Station</departureStation>
+        <departurePlatform>Platform D</departurePlatform>
+        <arrivalStation>Beach Station</arrivalStation>
+        <ticketCost>80.00</ticketCost>
+        <trainOperator>City Express Rail</trainOperator>
+        <travelTime>4 hours</travelTime>
+        <arrivalDate>2021-09-05</arrivalDate>
+        <arrivalTime>22:15</arrivalTime>
+    </train>
+    <train>
+        <trainNumber>1213</trainNumber>
+        <departureDate>2021-09-05</departureDate>
+        <departureTime>16:15</departureTime>
+        <destination>Seattle</destination>
+        <departureStation>Main Station</departureStation>
+        <departurePlatform>Platform E</departurePlatform>
+        <arrivalStation>City Center Station</arrivalStation>
+        <ticketCost>120.00</ticketCost>
+        <trainOperator>Superior Railways</trainOperator>
+        <travelTime>6 hours</travelTime>
+        <arrivalDate>2021-09-05</arrivalDate>
+        <arrivalTime>22:15</arrivalTime>
+    </train>
+</trainData>
